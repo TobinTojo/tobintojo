@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-My name is Tobin Tojo. I am a third year student studying Computer Science (BSc) at Wilfrid Laurier University. I have been learning to program for the past seven years and specialize in numerous programming languages such as Java, C and Python. I created this website to continue to practice my web development skills, while also using it to keep track of my personal projects and previous work experiences. I am eager to take on a challenging and rewarding role that will set me up for success in my future career.
-
-With a passion for software development and a proven track record of success, I believe that I am the best fit for any SDE/SWE role. I have a keen interest in the Unity game engine and I have been developing computer and mobile games for over a year. I have also competed in game jams in which I have placed 7th at the international level. Feel free to contact me for any inquiries.
-
+My name is Tobin Tojo.
 <!--
 **TobinTojo/tobintojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

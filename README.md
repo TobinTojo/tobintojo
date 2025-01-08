@@ -7,7 +7,7 @@
 
 ### About Me:
 
-- 💻 I’m working as a Web Developer and IT Support Specialist
+- 💻 I’m working as a Web Developer and IT Administrator
 - 📚 I'm currently in my third year of Computer Science at Wilfrid Laurier University!
 - ⚡ In my free time I love to create games using Unity and C#
 - 📫 How to reach me: tobintojo@gmail.com
